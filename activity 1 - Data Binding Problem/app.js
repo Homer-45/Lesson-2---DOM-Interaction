@@ -3,7 +3,7 @@ const app = Vue.createApp({
         return {
         Name: 'Roy Luzuriaga',
         Age: 20,
-        url: "http://vuejs.org/images/logo.png"
+        url:"http://vuejs.org/images/logo.png"
         };
 
     },
